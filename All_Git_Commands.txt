@@ -1,0 +1,15 @@
+===================================== GIT COMMANDS ==============================================================
+
+=> Steps
+1. Create a repository in github
+2. Create a Project in our local computer
+3. open cmd in project's folder and type cmd => git init
+4. Click on clone or download button in github and copy the link.
+5. cmd => git remote add origin "https://github.com/azizahmed95/gitDemo.git" (copied link)
+6. check status => git status
+
+=> Commands
+	=> git pull origin master (pulls everything from master branch the repository we created in github)
+	=> git add filename 	  (to add the single file, & to add all use '.')
+	=> git status
+	=> git commit -m "message"
