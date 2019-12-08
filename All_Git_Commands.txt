@@ -13,3 +13,5 @@
 	=> git add filename 	  (to add the single file, & to add all use '.')
 	=> git status
 	=> git commit -m "message"
+	=> Merge branch : git merge branch_name (it will add alchanges of another branch into current branch i.e merges)
+	
