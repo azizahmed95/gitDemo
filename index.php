@@ -9,7 +9,9 @@
 		<p>This is the header of the web page
 	</div>
 
-	<p>This is just a demo site under construction....</p>
+	<div id="content">
+		<p>This is just a demo site under construction....</p>
+	</div>
 </body>
 </html>
 
